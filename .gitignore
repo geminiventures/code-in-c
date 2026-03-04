@@ -55,4 +55,7 @@ dkms.conf
 *.dwo
 .vscode/
 build/
-*build/
+*build/Debug/
+*build/Release/
+build/Debug/
+build/Release/
