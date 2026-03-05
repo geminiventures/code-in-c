@@ -46,8 +46,8 @@ int main() {
     // TODO: Print book information, calculate values, and compare
     printf("Book 1: ID=%d, Title=%s, Price=%.2f, Quantity=%d\n", book1.id, book1.title, book1.price, book1.quantity);
     printf("Book 2: ID=%d, Title=%s, Price=%.2f, Quantity=%d\n", book2.id, book2.title, book2.price, book2.quantity);
-    float b1_total = book1.price * book1.quantity;
-    float b2_total = book2.price * book2.quantity;
+    float b1_total = book1.price * (float)book1.quantity;
+    float b2_total = book2.price * (float)book2.quantity;
     printf("Book 1 Total Value: %.2f\n", b1_total);
     printf("Book 2 Total Value: %.2f\n", b2_total);
     printf("Combined Inventory Value: %.2f\n", b1_total + b2_total);
