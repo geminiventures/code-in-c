@@ -23,7 +23,7 @@ int findMostExpensive(struct Product* products, int size) {
 float calculateTotalValue(struct Product* products, int size) {
     float totalValue = 0.0;
     for (int i = 0; i < size; i++) {
-        totalValue += products[i].price * products[i].stock;
+        totalValue += products[i].price * ((float)products[i].stock);
     }
     return totalValue;
 }
