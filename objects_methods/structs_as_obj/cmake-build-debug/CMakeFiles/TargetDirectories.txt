@@ -1,3 +1,0 @@
-C:/Users/mark/projects/coddy/c/structs_as_obj/cmake-build-debug/CMakeFiles/structs_as_obj.dir
-C:/Users/mark/projects/coddy/c/structs_as_obj/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mark/projects/coddy/c/structs_as_obj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
