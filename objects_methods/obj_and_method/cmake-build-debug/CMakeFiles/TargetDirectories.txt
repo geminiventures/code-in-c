@@ -1,3 +1,0 @@
-C:/Users/mark/projects/coddy/c/obj_and_method/cmake-build-debug/CMakeFiles/obj_and_method.dir
-C:/Users/mark/projects/coddy/c/obj_and_method/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mark/projects/coddy/c/obj_and_method/cmake-build-debug/CMakeFiles/rebuild_cache.dir
