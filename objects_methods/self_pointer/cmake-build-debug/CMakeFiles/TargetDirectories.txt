@@ -1,3 +1,0 @@
-C:/Users/mark/projects/coddy/c/self_pointer/cmake-build-debug/CMakeFiles/self_pointer.dir
-C:/Users/mark/projects/coddy/c/self_pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mark/projects/coddy/c/self_pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
