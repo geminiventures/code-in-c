@@ -73,4 +73,7 @@ build/Release/
 # Editor-based HTTP Client requests
 /httpRequests/
 cmake-build-debug
+/cmake-build-debug
+cmake-build-debug/
 
+/object_lifecycle/constructor_patterns/cmake-build-debug/
