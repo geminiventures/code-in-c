@@ -60,3 +60,6 @@ build/
 build/Debug/
 build/Release/
 .idea/
+*.xml
+*.iml
+
