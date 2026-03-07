@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// TODO: Define the Employee struct here
+// Define the Employee struct here
 struct Employee {
     int id;
     char name[50];
@@ -10,7 +10,7 @@ struct Employee {
     float salary;
     int yearsOfService;
 };
-// TODO: Implement fillEmployeeData function here
+// Implement fillEmployeeData function here
 void fillEmployeeData(struct Employee *e) {
     int id, yearsOfService;
     float salary;
@@ -29,7 +29,7 @@ void fillEmployeeData(struct Employee *e) {
         e->salary *= 1.05;       
     }
 }
-// TODO: Implement displayEmployee function here
+// Implement displayEmployee function here
 void displayEmployee(struct Employee *e) {
     printf("Employee Details:\n");
     printf("ID: %d\n",e->id);
@@ -38,23 +38,23 @@ void displayEmployee(struct Employee *e) {
     printf("Salary: %.2f\n",e->salary);
     printf("Years of Service: %d\n",e->yearsOfService);
 }
-// TODO: Implement promoteEmployee function here
+// Implement promoteEmployee function here
 void promoteEmployee(struct Employee *e) {
     e->salary *= 1.15;
     e->yearsOfService += 1;
     printf("Employee promoted successfully!\n");
 }
 int main() {
-    // TODO: Declare empPtr and allocate memory
+    // Declare empPtr and allocate memory
     struct Employee *empPtr = malloc(sizeof(struct Employee));
-    // TODO: Check if memory allocation was successful
+    // Check if memory allocation was successful
     if (empPtr == NULL) {
         printf("Memory allocation failed\n");
         return -1;
     } else {
         printf("Memory allocated successfully\n");
     }
-    // TODO: Fill employee data, display initial data, promote, and display after promotion
+    // Fill employee data, display initial data, promote, and display after promotion
     fillEmployeeData(empPtr);
     printf("Initial employee data:\n");
     displayEmployee(empPtr);
@@ -63,7 +63,7 @@ int main() {
     displayEmployee(empPtr);
     free(empPtr);
     printf("Memory freed successfully\n");
-    // TODO: Free memory and print success message
+    // Free memory and print success message
     
     return 0;
 }

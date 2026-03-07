@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-// TODO: Create typedef aliases here
+// Create typedef aliases here
 typedef float Temperature;
 typedef int SensorID;
 typedef int Status;
 
 int main() {
-    // TODO: Declare variables using the typedef aliases
+    // Declare variables using the typedef aliases
     SensorID sensor;
     Temperature currentTemp, threshold;
     Status alertStatus;
@@ -16,7 +16,7 @@ int main() {
     scanf("%f", &threshold);
     scanf("%d", &alertStatus);
     
-    // TODO: Write your code below to print sensor information and perform analysis
+    // Write your code below to print sensor information and perform analysis
     printf("Sensor ID: %d\n", sensor);
     printf("Current Temperature: %.1f\n", currentTemp);
     printf("Threshold: %.1f\n", threshold);

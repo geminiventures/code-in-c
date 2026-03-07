@@ -1,13 +1,13 @@
 #include <stdio.h>
 
-// TODO: Define your enum ShapeType and typedef here
+// Define your enum ShapeType and typedef here
 typedef enum ShapeType {
     CIRCLE,
     RECTANGLE,
     TRIANGLE
 } Shape;
 
-// TODO: Implement the calculateArea function here
+// Implement the calculateArea function here
 float calculateArea(Shape shape, float dimension1, float dimension2) {
     switch (shape) {
         case CIRCLE:
@@ -20,7 +20,7 @@ float calculateArea(Shape shape, float dimension1, float dimension2) {
             return 0.0;
     }
 }
-// TODO: Implement the printShapeInfo function here
+// Implement the printShapeInfo function here
 void printShapeInfo(Shape shape) {
     switch (shape) {
         case CIRCLE:
@@ -46,7 +46,7 @@ int main() {
     scanf("%f", &dim1);
     scanf("%f", &dim2);
     
-    // TODO: Write your code below
+    // Write your code below
     // Declare selectedShape variable and assign based on shapeChoice
     Shape selectedShape = shapeChoice;
 

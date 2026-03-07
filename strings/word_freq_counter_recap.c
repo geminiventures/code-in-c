@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// TODO: Write your extractWord function here
+// Write your extractWord function here
 // Takes a char* sentence, an integer startIndex, and a char* word parameter
 // Returns an integer representing the index after the extracted word
 // Extracts a single word starting from startIndex until a space or null terminator is found
@@ -25,7 +25,7 @@ int extractWord(const char* sentence, int startIndex, char* word) {
     return i; // Return the index after the extracted word
 }
 
-// TODO: Write a function named countWordOccurrences that:
+// Write a function named countWordOccurrences that:
 // Takes two char* parameters: sentence and targetWord
 // Returns an integer representing the number of times the target word appears in the sentence
 // Uses a loop to process the sentence character by character
@@ -66,7 +66,7 @@ int countWordOccurrences(const char* sentence, const char* targetWord) {
 }
 
 
-// TODO: Write your analyzeText function here
+// Write your analyzeText function here
 // Takes a char* sentence parameter
 // Returns an integer representing the total number of words in the sentence
 // Counts words by identifying spaces as separators
@@ -100,7 +100,7 @@ int main() {
     // Read search word
     scanf("%s", searchWord);
     
-    // TODO: Write your code below
+    // Write your code below
     // Call analyzeText function and store total word count
     int totalWords = analyzeText(inputSentence);
     // Call countWordOccurrences function and store occurrences

@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// TODO: Write your concatenateStrings function here
+// Write your concatenateStrings function here
 char* concatenateStrings(char* str1, char* str2) {
     //calculate the total memory needed for both strings and the null terminator
     int totalLength = strlen(str1) + strlen(str2) + 1;
@@ -20,7 +20,7 @@ char* concatenateStrings(char* str1, char* str2) {
     //return the pointer to the concatenated string
     return concatPtr;
 }
-// TODO: Write your processText function that takes 3 char* parameters, word1, word2, and separator
+// Write your processText function that takes 3 char* parameters, word1, word2, and separator
 char* processText(char* word1, char* word2, char* separator) {
     // Concatenate the first word and the separator
     char* temp = concatenateStrings(word1, separator);
@@ -42,7 +42,7 @@ int main() {
     scanf("%s", secondWord);
     scanf("%s", connector);
     
-    // TODO: Write your code below
+    // Write your code below
     // Call processText function and handle the result
     char* concatenated_string = processText(firstWord, secondWord, connector);
     if (concatenated_string == NULL) {

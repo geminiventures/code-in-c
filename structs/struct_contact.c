@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// TODO: Define the Contact struct here
+// Define the Contact struct here
 struct Contact {
     char name[50];
     char phone[20];
@@ -10,7 +10,7 @@ struct Contact {
 };
 
 int main() {
-    // TODO: Create a Contact variable named person
+    // Create a Contact variable named person
     struct Contact person;
     // Read input values
     scanf("%s", person.name);
@@ -18,7 +18,7 @@ int main() {
     scanf("%s", person.email);
     scanf("%d", &person.age);
     
-    // TODO: Write your validation and output code below
+    // Write your validation and output code below
     if (person.age < 0 || person.age > 120) {
         printf("Invalid age\n");
         return -1;

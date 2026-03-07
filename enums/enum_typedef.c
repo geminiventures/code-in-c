@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// TODO: Define the TrafficLight enum here
+// Define the TrafficLight enum here
 enum TrafficLight {
     RED,
     YELLOW,
@@ -12,7 +12,7 @@ int main() {
     int input;
     scanf("%d", &input);
     
-    // TODO: Declare currentLight variable and assign enum value based on input
+    // Declare currentLight variable and assign enum value based on input
     enum TrafficLight currentLight;
     if (input == 0) {
         currentLight = RED;
@@ -22,7 +22,7 @@ int main() {
         currentLight = GREEN;
     }
     
-    // TODO: Print current light status
+    // Print current light status
     if (currentLight == RED) {
         printf("Current light: RED\n");
     } else if (currentLight == YELLOW) {
@@ -31,10 +31,10 @@ int main() {
         printf("Current light: GREEN\n");
     }
     
-    // TODO: Print numeric value
+    // Print numeric value
     printf("Numeric value: %d\n", currentLight);
     
-    // TODO: Print action based on current light
+    // Print action based on current light
     if (currentLight == RED) {
         printf("Action: Stop\n");
     } else if (currentLight == YELLOW) {
@@ -43,7 +43,7 @@ int main() {
         printf("Action: Go\n");
     }
     
-    // TODO: Calculate and print next light
+    // Calculate and print next light
     enum TrafficLight nextLight;
     if (currentLight == RED) {
         nextLight = GREEN;

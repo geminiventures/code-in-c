@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// TODO: Define the WeatherCondition enum here
+// Define the WeatherCondition enum here
 enum WeatherCondition {
     SUNNY,
     CLOUDY,
@@ -8,7 +8,7 @@ enum WeatherCondition {
     STORMY,
     SNOWY   
 };
-// TODO: Implement the getWeatherAdvice function here
+// Implement the getWeatherAdvice function here
 void getWeatherAdvice(enum WeatherCondition weather) {
     switch (weather) {
         case SUNNY:
@@ -31,7 +31,7 @@ void getWeatherAdvice(enum WeatherCondition weather) {
             break;
     }
 }
-// TODO: Implement the getActivitySuggestion function here
+// Implement the getActivitySuggestion function here
 void getActivitySuggestion(enum WeatherCondition weather) {
     switch (weather) {
         case SUNNY:
@@ -59,14 +59,14 @@ int main() {
     int weatherInput;
     scanf("%d", &weatherInput);
     
-    // TODO: Declare currentWeather variable and assign enum value based on input
+    // Declare currentWeather variable and assign enum value based on input
     enum WeatherCondition currentWeather;
     currentWeather = (enum WeatherCondition)weatherInput;
-    // TODO: Print current weather condition in format "Current weather: [numeric_value]"
+    // Print current weather condition in format "Current weather: [numeric_value]"
     printf("Current weather: %d\n", currentWeather);
-    // TODO: Call getWeatherAdvice function
+    // Call getWeatherAdvice function
     getWeatherAdvice(currentWeather);
-    // TODO: Call getActivitySuggestion function
+    // Call getActivitySuggestion function
     getActivitySuggestion(currentWeather);
     
     return 0;
