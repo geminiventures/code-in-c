@@ -1,0 +1,6 @@
+# ninja log v6
+2	115	7945969637173620	build.ninja	b099635245e54e00
+2	115	7945969637173620	C:/Users/mark/projects/coddy/c/constructor_patterns/cmake-build-debug/cmake_install.cmake	b099635245e54e00
+7	77	7945969637539765	CMakeFiles/constructor_patterns.dir/main.c.obj	789a46f68c27cf31
+1	78	7945969637484667	CMakeFiles/constructor_patterns.dir/book.c.obj	204bdd8802d3ad8d
+78	149	7945969638250559	constructor_patterns.exe	108617ad9731662

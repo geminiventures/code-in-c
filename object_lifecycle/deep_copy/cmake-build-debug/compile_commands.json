@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/mark/projects/coddy/c/object_lifecycle/deep_copy/cmake-build-debug",
+  "command": "C:\\Users\\mark\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -IC:/Users/mark/projects/coddy/c/object_lifecycle/deep_copy/. -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\deep_copy.dir\\main.c.obj -c C:\\Users\\mark\\projects\\coddy\\c\\object_lifecycle\\deep_copy\\main.c",
+  "file": "C:/Users/mark/projects/coddy/c/object_lifecycle/deep_copy/main.c",
+  "output": "C:/Users/mark/projects/coddy/c/object_lifecycle/deep_copy/cmake-build-debug/CMakeFiles/deep_copy.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/mark/projects/coddy/c/object_lifecycle/deep_copy/cmake-build-debug",
+  "command": "C:\\Users\\mark\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -IC:/Users/mark/projects/coddy/c/object_lifecycle/deep_copy/. -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\deep_copy.dir\\student.c.obj -c C:\\Users\\mark\\projects\\coddy\\c\\object_lifecycle\\deep_copy\\student.c",
+  "file": "C:/Users/mark/projects/coddy/c/object_lifecycle/deep_copy/student.c",
+  "output": "C:/Users/mark/projects/coddy/c/object_lifecycle/deep_copy/cmake-build-debug/CMakeFiles/deep_copy.dir/student.c.obj"
+}
+]

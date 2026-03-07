@@ -1,0 +1,3 @@
+C:/Users/mark/projects/coddy/c/object_lifecycle/deep_copy/cmake-build-debug/CMakeFiles/deep_copy.dir
+C:/Users/mark/projects/coddy/c/object_lifecycle/deep_copy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mark/projects/coddy/c/object_lifecycle/deep_copy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

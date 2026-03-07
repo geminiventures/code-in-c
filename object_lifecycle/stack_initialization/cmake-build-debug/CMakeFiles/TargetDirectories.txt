@@ -1,0 +1,3 @@
+C:/Users/mark/projects/coddy/c/stack_initialization/cmake-build-debug/CMakeFiles/stack_initialization.dir
+C:/Users/mark/projects/coddy/c/stack_initialization/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mark/projects/coddy/c/stack_initialization/cmake-build-debug/CMakeFiles/rebuild_cache.dir

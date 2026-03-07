@@ -1,0 +1,6 @@
+# ninja log v6
+2	106	7945985383659188	build.ninja	346bc013b7d19b77
+2	106	7945985383659188	C:/Users/mark/projects/coddy/c/constructor_patterns/destructor_patterns/cmake-build-debug/cmake_install.cmake	346bc013b7d19b77
+2	75	7945985383916132	CMakeFiles/destructor_patterns.dir/main.c.obj	cde6f186fad6dae7
+6	76	7945985383956068	CMakeFiles/destructor_patterns.dir/movie.c.obj	11928d962db6ea66
+76	146	7945985384655887	destructor_patterns.exe	18c35c163564027c

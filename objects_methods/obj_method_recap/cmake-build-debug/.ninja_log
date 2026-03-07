@@ -1,0 +1,6 @@
+# ninja log v6
+2	109	7945959178072338	build.ninja	b1c10672c74913fa
+2	109	7945959178072338	C:/Users/mark/projects/coddy/c/obj_method_recap/cmake-build-debug/cmake_install.cmake	b1c10672c74913fa
+1	69	7945959178294321	CMakeFiles/obj_method_recap.dir/main.c.obj	f568a6c4b877773e
+5	70	7945959178329411	CMakeFiles/obj_method_recap.dir/point.c.obj	5085da628e509d7
+70	147	7945959178980626	obj_method_recap.exe	411411a2f6cea3ef

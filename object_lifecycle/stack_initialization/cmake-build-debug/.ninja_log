@@ -1,0 +1,6 @@
+# ninja log v6
+3	110	7945994085467171	build.ninja	3271441b5b304d5d
+3	110	7945994085467171	C:/Users/mark/projects/coddy/c/stack_initialization/cmake-build-debug/cmake_install.cmake	3271441b5b304d5d
+5	60	7945994085748887	CMakeFiles/stack_initialization.dir/temperature.c.obj	334ffc953ed16aa2
+1	65	7945994085708882	CMakeFiles/stack_initialization.dir/main.c.obj	8c326675890af103
+65	140	7945994086355151	stack_initialization.exe	e40287a74bf41697

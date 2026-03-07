@@ -1,0 +1,8 @@
+# ninja log v6
+3	117	7946017909835528	build.ninja	f4c07e2d76df73ab
+5	61	7946008302927659	CMakeFiles/deep_copy.dir/student.c.obj	504bb5052b76864c
+1	57	7946008302892588	CMakeFiles/deep_copy.dir/main.c.obj	68edec872eaa449e
+61	143	7946008303483873	deep_copy.exe	620bcdc49285327b
+5	59	7946018006539867	CMakeFiles/deep_copy.dir/main.c.obj	ebc6357ffdc0b90e
+8	75	7946018006579841	CMakeFiles/deep_copy.dir/student.c.obj	aecb9691f4f696f0
+75	129	7946018007240819	deep_copy.exe	620bcdc49285327b

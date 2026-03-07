@@ -1,0 +1,6 @@
+# ninja log v6
+2	112	7945909022497396	build.ninja	b2ceb0531a271544
+2	112	7945909022497396	C:/Users/mark/projects/coddy/c/self_pointer/cmake-build-debug/cmake_install.cmake	b2ceb0531a271544
+5	57	7945909022748035	CMakeFiles/self_pointer.dir/timer.c.obj	5294602422f1709e
+1	60	7945909022708036	CMakeFiles/self_pointer.dir/main.c.obj	b81482edba6648de
+60	126	7945909023303141	self_pointer.exe	b8f46c618c8a29db

@@ -1,0 +1,6 @@
+# ninja log v6
+3	107	7945939952408993	build.ninja	d2111917883205c0
+3	107	7945939952408993	C:/Users/mark/projects/coddy/c/obj_and_method/cmake-build-debug/cmake_install.cmake	d2111917883205c0
+2	71	7945939952649228	CMakeFiles/obj_and_method.dir/main.c.obj	b7e99d8efab57be
+6	72	7945939952689237	CMakeFiles/obj_and_method.dir/product.c.obj	9c9563365570b0d
+72	150	7945939953350750	obj_and_method.exe	aa080c2eb89472a8

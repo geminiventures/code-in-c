@@ -1,0 +1,6 @@
+# ninja log v6
+3	109	7946014554604161	build.ninja	27bbcef4e62b9e4e
+3	109	7946014554604161	C:/Users/mark/projects/coddy/c/string_wrapper/cmake-build-debug/cmake_install.cmake	27bbcef4e62b9e4e
+1	69	7946014554863273	CMakeFiles/string_wrapper.dir/main.c.obj	98b2e8f6f2ad6e5e
+7	76	7946014554913310	CMakeFiles/string_wrapper.dir/stringobj.c.obj	d42008ab51119977
+76	145	7946014555613171	string_wrapper.exe	763f60fe3b03b04

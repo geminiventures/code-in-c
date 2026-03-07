@@ -1,0 +1,3 @@
+C:/Users/mark/projects/coddy/c/obj_method_recap/cmake-build-debug/CMakeFiles/obj_method_recap.dir
+C:/Users/mark/projects/coddy/c/obj_method_recap/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mark/projects/coddy/c/obj_method_recap/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/mark/projects/coddy/c/string_wrapper/cmake-build-debug",
+  "command": "C:\\Users\\mark\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -IC:/Users/mark/projects/coddy/c/string_wrapper/. -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\string_wrapper.dir\\main.c.obj -c C:\\Users\\mark\\projects\\coddy\\c\\string_wrapper\\main.c",
+  "file": "C:/Users/mark/projects/coddy/c/string_wrapper/main.c",
+  "output": "C:/Users/mark/projects/coddy/c/string_wrapper/cmake-build-debug/CMakeFiles/string_wrapper.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/mark/projects/coddy/c/string_wrapper/cmake-build-debug",
+  "command": "C:\\Users\\mark\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -IC:/Users/mark/projects/coddy/c/string_wrapper/. -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\string_wrapper.dir\\stringobj.c.obj -c C:\\Users\\mark\\projects\\coddy\\c\\string_wrapper\\stringobj.c",
+  "file": "C:/Users/mark/projects/coddy/c/string_wrapper/stringobj.c",
+  "output": "C:/Users/mark/projects/coddy/c/string_wrapper/cmake-build-debug/CMakeFiles/string_wrapper.dir/stringobj.c.obj"
+}
+]

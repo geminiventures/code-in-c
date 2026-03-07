@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/mark/projects/coddy/c/constructor_patterns/cmake-build-debug",
+  "command": "C:\\Users\\mark\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -IC:/Users/mark/projects/coddy/c/constructor_patterns/. -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\constructor_patterns.dir\\book.c.obj -c C:\\Users\\mark\\projects\\coddy\\c\\constructor_patterns\\book.c",
+  "file": "C:/Users/mark/projects/coddy/c/constructor_patterns/book.c",
+  "output": "C:/Users/mark/projects/coddy/c/constructor_patterns/cmake-build-debug/CMakeFiles/constructor_patterns.dir/book.c.obj"
+},
+{
+  "directory": "C:/Users/mark/projects/coddy/c/constructor_patterns/cmake-build-debug",
+  "command": "C:\\Users\\mark\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -IC:/Users/mark/projects/coddy/c/constructor_patterns/. -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\constructor_patterns.dir\\main.c.obj -c C:\\Users\\mark\\projects\\coddy\\c\\constructor_patterns\\main.c",
+  "file": "C:/Users/mark/projects/coddy/c/constructor_patterns/main.c",
+  "output": "C:/Users/mark/projects/coddy/c/constructor_patterns/cmake-build-debug/CMakeFiles/constructor_patterns.dir/main.c.obj"
+}
+]

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/mark/projects/coddy/c/constructor_patterns/destructor_patterns/cmake-build-debug",
+  "command": "C:\\Users\\mark\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -IC:/Users/mark/projects/coddy/c/constructor_patterns/destructor_patterns/. -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\destructor_patterns.dir\\main.c.obj -c C:\\Users\\mark\\projects\\coddy\\c\\constructor_patterns\\destructor_patterns\\main.c",
+  "file": "C:/Users/mark/projects/coddy/c/constructor_patterns/destructor_patterns/main.c",
+  "output": "C:/Users/mark/projects/coddy/c/constructor_patterns/destructor_patterns/cmake-build-debug/CMakeFiles/destructor_patterns.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/mark/projects/coddy/c/constructor_patterns/destructor_patterns/cmake-build-debug",
+  "command": "C:\\Users\\mark\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -IC:/Users/mark/projects/coddy/c/constructor_patterns/destructor_patterns/. -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\destructor_patterns.dir\\movie.c.obj -c C:\\Users\\mark\\projects\\coddy\\c\\constructor_patterns\\destructor_patterns\\movie.c",
+  "file": "C:/Users/mark/projects/coddy/c/constructor_patterns/destructor_patterns/movie.c",
+  "output": "C:/Users/mark/projects/coddy/c/constructor_patterns/destructor_patterns/cmake-build-debug/CMakeFiles/destructor_patterns.dir/movie.c.obj"
+}
+]

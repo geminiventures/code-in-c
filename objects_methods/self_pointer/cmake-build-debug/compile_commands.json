@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/mark/projects/coddy/c/self_pointer/cmake-build-debug",
+  "command": "C:\\Users\\mark\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -IC:/Users/mark/projects/coddy/c/self_pointer/. -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\self_pointer.dir\\main.c.obj -c C:\\Users\\mark\\projects\\coddy\\c\\self_pointer\\main.c",
+  "file": "C:/Users/mark/projects/coddy/c/self_pointer/main.c",
+  "output": "C:/Users/mark/projects/coddy/c/self_pointer/cmake-build-debug/CMakeFiles/self_pointer.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/mark/projects/coddy/c/self_pointer/cmake-build-debug",
+  "command": "C:\\Users\\mark\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -IC:/Users/mark/projects/coddy/c/self_pointer/. -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\self_pointer.dir\\timer.c.obj -c C:\\Users\\mark\\projects\\coddy\\c\\self_pointer\\timer.c",
+  "file": "C:/Users/mark/projects/coddy/c/self_pointer/timer.c",
+  "output": "C:/Users/mark/projects/coddy/c/self_pointer/cmake-build-debug/CMakeFiles/self_pointer.dir/timer.c.obj"
+}
+]
