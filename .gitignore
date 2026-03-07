@@ -72,4 +72,5 @@ build/Release/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+cmake-build-debug
 
